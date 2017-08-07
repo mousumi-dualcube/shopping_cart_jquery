@@ -1,0 +1,948 @@
+.coupon_value {
+	font-size : 40px;
+}
+.percentage_sign {
+	font-size : 17px;
+}
+.off_patern {
+	font-size : 22px;
+}
+span.use_intraction {
+		background: #ddd none repeat scroll 0 0;
+    color: #000;
+    font-size: 11px;
+    font-style: italic;
+    padding: 12px;
+}
+span.smaill_text {
+	font-size : 10px;
+}
+span.use_intraction span {
+	background: #252627 none repeat scroll 0 0;
+	color: #fff;
+	font-size: 13px;
+	font-style: normal;
+	padding: 4px;
+}
+section.item_object {
+	min-height : 400px;
+}
+.coupon_design {
+	  background: #fff none repeat scroll 0 0;
+    color: #000;
+    padding: 30px 10px;
+    text-align: center;
+}
+.sidebar_block {
+	background: rgb(240, 240, 240) none repeat scroll 0% 0%;
+	padding : 30px 15px;
+}
+
+.header_menu_second .container div, #example-navbar-collapse {
+	padding-left : 0px;
+}
+.green_index_nav  {
+	margin-bottom: 0px;
+	border: none;
+	text-transform: capitalize;
+}
+.sidebar_block .coupon_design:last-child {
+	background : #cacaca;
+	margin-top : 50px;
+}
+.or_text {
+	margin-top : 50px;
+}
+.body_div {
+	margin-bottom : 20px;
+}
+body {
+	overflow-x: hidden;
+}
+.thankyoudiv, .empty_cart {
+	min-height : 275px;
+}
+.card_view table  { 
+	width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #e0dcdc;
+}
+.card_view table  tbody tr:nth-of-type(odd) { 
+	background: #eee; 
+}
+.search_product {
+	padding: 5px;
+	min-width: 300px;
+}
+.card_view table  thead th { 
+	background: #57c5a0; 
+	color: white; 
+	font-weight: bold; 
+}
+.card_view table  tbody td, .card_view table  thead th { 
+	padding: 6px; 
+	text-align: left; 
+}
+.btn-group-sm>.btn, .btn-sm {
+    margin-right: 10px;
+    margin-left: 8px;
+}
+.quantity_change, .shop_quantity_change {
+	width: 50px;
+	padding: 0px 2px;
+	margin : 0 auto;
+}
+.shop_quantity_change {
+	margin-left: 10px;
+	padding: 5px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+.show_error {
+	background : red;
+	color:#fff;
+	padding : 10px;
+}
+.shop_price {
+	display: block;
+    padding: 10px 0px;
+}
+.product_price, .product_subtotal, .price{
+	width: 100px;
+    display: block;
+    text-align: center;
+}
+.price {
+	text-align: left !important;
+}
+.coupon_textbox, .coupon_apply {
+	margin-right: 5px;
+}
+.coupon_textbox {
+    padding: 5px;
+    border-radius: 5px;
+}
+.continue_shopping {
+	margin-right: 10px;
+}
+.card_view table  tbody td {
+	vertical-align: middle;
+}
+.card_view table  thead th {
+	text-align: center;
+}
+.cancel_product {
+	padding: 2px 5px 2px 5px;
+	font-size: 10px;
+	line-height: 1.5;
+}
+.header_column {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	 background-color: #ebe7df;
+}
+.desktop_style_index .btn.btn-default{
+	background : #242424;
+	border : none;
+	color  : #fff;
+}
+.footer_bg2 .nav>li>a:focus, .footer_bg2 .nav>li>a:hover {
+	background : #2e2e2e;
+}
+.header_menu_container nav, .footer_div{
+	background: #fff;
+}
+.header_menu_container nav {
+	color  : #000;
+}
+.navbar-default .navbar-nav>li>a, .footer_div a {
+	color : #000;
+}
+.login_register label {
+	padding-top: 12px;
+	padding-bottom: 13px;
+}
+.login_register {
+	text-align: center;
+}
+.header_menu {
+	background-color : #242424;
+	color : #7e7e7e;
+}
+.carousal_padding {
+	padding-left : 0px;
+	padding-right : 0px;
+}
+.logo_label {
+	color : #57c5a0;
+	font-size : 20px;
+	padding-top : 12px;
+}
+.sidebar_block {
+	background : #57c5a0;
+}
+.btn-primary:hover , .btn-primary {
+	background-color: #57c5a0 !important;
+  border-color: #57c5a0 !important;
+}
+.body_addon {
+	padding-top: 30px;
+	margin-top: 30px;
+	border-top: 1px solid #bcb5a7;
+}
+.free_shipping, .testimonial, .blog_news {
+	background: #dfdbd4;
+  padding: 30px 20px;
+}
+.body_addon {
+	clear : both;
+}
+a {
+	color : #000;
+}
+.border-right {
+	border-right : 1px solid #7e7e7e;
+}
+.body_div, body {
+    background: #ebe7df;
+}
+.cart_item_img {
+	width : 70px;
+	margin-top : 10px;
+}
+.fotter_menu li {
+	display: inline-block;
+	padding: 10px;
+}
+.copyright_text  {
+	color: #fff;
+	text-align: center;
+}
+.site_logo {
+    font-size: 30px;
+    color: #337ab7;
+	font-family: 'Lobster', cursive;
+}
+.cart_totals {
+    padding: 20px 0px;
+}
+
+/* start carousel css */
+/* Accessible News Slider: Base styles */
+
+div.jqans-wrapper {
+	-x-system-font:none;
+	font-family:arial,helvetica,clean,sans-serif;
+	font-size:12px;
+	font-size-adjust:none;
+	font-stretch:normal;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.231;
+	color:#666666;
+}
+
+div.jqans-wrapper img {
+	border: 0;
+	display:block;
+	position:relative;
+	width: 100% !important;
+	height: auto;
+}
+
+div.jqans-wrapper ul,
+div.jqans-wrapper li,
+div.jqans-wrapper h1,
+div.jqans-wrapper p {
+	margin: 0;
+	padding: 0;
+}
+
+div.jqans-wrapper {
+	position: relative;
+	overflow: hidden;
+}
+
+div.jqans-wrapper ul {
+	position: relative;
+	left: 0;
+	width: auto;
+	list-style-type: none;
+	overflow: hidden;
+	z-index: 1;
+}
+
+div.jqans-wrapper li {
+	float: left;
+	display: inline;
+}
+/* Accessible News Slider : Theme Default */
+
+/*************************************
+	Height and Width values
+	these are extremely important!!!
+*************************************/
+
+/* the stories ul and lis must have the same height */
+div.jqans-wrapper.default .jqans-stories ul,
+div.jqans-wrapper.default .jqans-stories li {
+	height:auto;
+	padding-left:6px;
+	padding-bottom:5px;
+}
+
+div.jqans-wrapper.default .jqans-stories-selector ul,
+div.jqans-wrapper.default .jqans-stories-selector li {
+
+}
+
+/* 
+	wrapper and the container must have the same width
+	in order to get this value take the width value of
+	of story ".jqans-stories li" and times it by the 
+	number of stories you want to initially display.
+	
+	107px * 4 = 428px
+	
+ */
+div.jqans-wrapper.default,
+div.jqans-wrapper.default .jqans-container {
+	display:block;
+	position:relative;
+	min-width: 100%;
+	height: auto;
+}
+
+/* width value for each story li */
+div.jqans-wrapper.default li {
+	max-width: 84.5px;
+	width:auto;
+}
+div .jqans-wrapper.default .li > .a > img{
+	display:block;
+	position:relative;
+	width: 100% !important;
+	height: auto;
+}
+/* default styles */
+div.jqans-wrapper.default a {
+	text-decoration: none;
+	font-weight: normal;
+	color: #fff;
+	outline: none;
+}
+
+div.jqans-wrapper.default strong {
+	color: #000;
+}
+
+/* wrapper */
+div.jqans-wrapper.default {
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-top: 1px solid #ddd;
+}
+
+/* container */
+div.jqans-wrapper.default .jqans-container { 
+	min-height: 280px; 
+	text-align: center;
+	padding-top: 0px;
+	position:realtive;
+}
+
+div.jqans-wrapper.default .jqans-container a {
+	font-weight: bold;
+}
+.description {
+   position: absolute;
+   bottom:0;
+   left:0;
+   background-color: #1d69a6;
+   opacity: 0.8;
+   z-index:1;
+   padding : 10px;
+   text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+}
+/* headline */
+div.jqans-wrapper.default .jqans-headline {
+	text-align: left;
+	margin-left: 4px;
+	margin-bottom: 4px;
+}
+
+div.jqans-wrapper.default .jqans-content h1 {
+	text-align: left;
+	color: #fff;
+	margin: 8px 4px 4px 4px;
+	font-size: 16px;
+	opacity:1.0;
+}
+div.jqans-wrapper.default .description a{
+	color:#fff !important;
+	opacity:1.0 !important;
+}
+
+div.jqans-wrapper.default .jqans-content p {
+	text-align: left;
+	color: #fff !important;
+	margin: 4px;
+	opacity:1.0;
+}
+div.jqans-wrapper.default .description p{
+	color:#fff !important;
+	opacity:1.0 !important;
+}
+/* stories */
+div.jqans-wrapper.default .jqans-stories {
+	background-color: #0e171e;
+	color:#fff;
+}
+
+div.jqans-wrapper.default .jqans-stories li {
+	overflow: hidden;
+	text-align: center;
+	font-size: 12px;
+	color: #666;
+}
+
+div.jqans-wrapper.default .jqans-stories li.selected {
+	background:inherit;
+}
+
+div.jqans-wrapper.default .jqans-stories li img {
+	margin-top: 10px;
+    padding: 1px;
+    background-color: #555;
+    border: 0.5px solid #555;
+	cursor:pointer;
+}
+div.jqans-wrapper.default .jqans-stories li.selected img {
+	border: 0.5px solid rgb(255, 255, 255);
+	background-color: rgb(255, 255, 255);
+}
+div.jqans-wrapper.default .jqans-stories li p {
+	display: none;
+}
+
+div.jqans-wrapper.default .jqans-stories li h3 {
+	margin:0;
+	font-size:12px;
+	font-weight:normal;
+}
+
+div.jqans-wrapper.default .jqans-stories-selector li.selected div {
+	margin:auto;
+	height: 0px;
+	width:0px;
+	line-height:0px;
+	font-size:0px;
+	border-right: 10px solid white;
+	border-bottom: 10px solid #ce1c8e;
+	border-left: 10px solid white;
+	background-color:#fff;
+}
+
+/* pagination */
+div.jqans-wrapper.default .jqans-pagination {
+	margin: 0;
+	padding: 2px 2px 0 2px;
+	text-align: left;
+	overflow: hidden;
+	padding-top: 3.5%;
+}
+.jqans-wrapper {
+	background: #0e171e;
+}
+
+div.jqans-wrapper.default .jqans-pagination-count {
+	float: left;
+	padding-left: 26px;
+	color : #fff;
+}
+
+div.jqans-wrapper.default .jqans-pagination-controls {
+	float: right;
+	padding-right : 15px;
+}
+
+div.jqans-wrapper.default .jqans-pagination-controls a {
+	display: inline-block;
+	width: 22px;
+	height: 19px;
+	text-indent: -9999px;
+	background: no-repeat bottom center;
+	float:left;
+}
+
+div.jqans-wrapper.default .jqans-pagination-controls-back a {
+	background-image: url(previous.png);
+}
+
+div.jqans-wrapper.default .jqans-pagination-controls-next a {
+	background-image: url(next.png);
+}
+.jqans-stories-selector{
+	visibility:hidden;
+	display:none;
+}
+
+.jqans-stories {
+	overflow: hidden;
+    padding-left: 0px;
+}
+/* start carosel theme css */
+/* Accessible News Slider : Theme Default */
+
+/*************************************
+	Height and Width values
+	these are extremely important!!!
+*************************************/
+
+/* the stories ul and lis must have the same height */
+div.jqans-wrapper.default .jqans-stories ul,
+div.jqans-wrapper.default .jqans-stories li {
+	height:auto;
+	padding-left:6px;
+	padding-bottom:5px;
+}
+
+div.jqans-wrapper.default .jqans-stories-selector ul,
+div.jqans-wrapper.default .jqans-stories-selector li {
+
+}
+
+/* 
+	wrapper and the container must have the same width
+	in order to get this value take the width value of
+	of story ".jqans-stories li" and times it by the 
+	number of stories you want to initially display.
+	
+	107px * 4 = 428px
+	
+ */
+div.jqans-wrapper.default,
+div.jqans-wrapper.default .jqans-container {
+	display:block;
+	position:relative;
+	min-width: 100%;
+	height: auto;
+}
+
+/* width value for each story li */
+div.jqans-wrapper.default li {
+	max-width: 84.5px;
+	width:auto;
+}
+div .jqans-wrapper.default .li > .a > img{
+	display:block;
+	position:relative;
+	width: 100% !important;
+	height: auto;
+}
+/* default styles */
+div.jqans-wrapper.default a {
+	text-decoration: none;
+	font-weight: normal;
+	color: #fff;
+	outline: none;
+}
+
+div.jqans-wrapper.default strong {
+	color: #000;
+}
+
+/* wrapper */
+div.jqans-wrapper.default {
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-top: 1px solid #ddd;
+}
+
+/* container */
+div.jqans-wrapper.default .jqans-container { 
+	min-height: 280px; 
+	text-align: center;
+	padding-top: 0px;
+	position:realtive;
+}
+
+div.jqans-wrapper.default .jqans-container a {
+	font-weight: bold;
+}
+div.jqans-wrapper.default .description {
+   position: absolute;
+   bottom:0;
+   left:0;
+   background-color: #1d69a6;
+   opacity: 0.8;
+   z-index:1;
+   padding : 10px;
+   text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+}
+/* headline */
+div.jqans-wrapper.default .jqans-headline {
+	text-align: left;
+	margin-left: 4px;
+	margin-bottom: 4px;
+}
+
+div.jqans-wrapper.default .jqans-content h1 {
+	text-align: left;
+	color: #fff;
+	margin: 8px 4px 4px 4px;
+	font-size: 16px;
+	opacity:1.0;
+}
+div.jqans-wrapper.default .description a{
+	color:#fff !important;
+	opacity:1.0 !important;
+}
+
+div.jqans-wrapper.default .jqans-content p {
+	text-align: left;
+	color: #fff !important;
+	margin: 4px;
+	opacity:1.0;
+}
+div.jqans-wrapper.default .description p{
+	color:#fff !important;
+	opacity:1.0 !important;
+}
+/* stories */
+div.jqans-wrapper.default .jqans-stories {
+	background-color: #0e171e;
+	color:#fff;
+}
+
+div.jqans-wrapper.default .jqans-stories li {
+	overflow: hidden;
+	text-align: center;
+	font-size: 12px;
+	color: #666;
+}
+
+div.jqans-wrapper.default .jqans-stories li.selected {
+	background:inherit;
+}
+.add_to_cart_text {
+	color : green;
+}
+.add_to_cart_text a {
+	display: inline-block !important;
+	color: blue;
+	text-decoration: underline;
+}
+div.jqans-wrapper.default .jqans-stories li img {
+	margin-top: 10px;
+    padding: 1px;
+    background-color: #555;
+    border: 0.5px solid #555;
+	cursor:pointer;
+}
+div.jqans-wrapper.default .jqans-stories li.selected img {
+	border: 0.5px solid rgb(255, 255, 255);
+	background-color: rgb(255, 255, 255);
+}
+div.jqans-wrapper.default .jqans-stories li p {
+	display: none;
+}
+
+div.jqans-wrapper.default .jqans-stories li h3 {
+	margin:0;
+	font-size:12px;
+	font-weight:normal;
+}
+
+div.jqans-wrapper.default .jqans-stories-selector li.selected div {
+	margin:auto;
+	height: 0px;
+	width:0px;
+	line-height:0px;
+	font-size:0px;
+	border-right: 10px solid white;
+	border-bottom: 10px solid #ce1c8e;
+	border-left: 10px solid white;
+	background-color:#fff;
+}
+
+/* pagination */
+div.jqans-wrapper.default .jqans-pagination {
+	margin: 0;
+	padding: 2px 2px 0 2px;
+	text-align: left;
+	overflow: hidden;
+	padding-top: 3.5%;
+}
+.jqans-wrapper {
+	background: #0e171e;
+}
+
+div.jqans-wrapper.default .jqans-pagination-count {
+	float: left;
+	padding-left: 35%;
+	color : #fff;
+}
+
+div.jqans-wrapper.default .jqans-pagination-controls {
+	float: right;
+	padding-right : 0px;
+}
+
+div.jqans-wrapper.default .jqans-pagination-controls a {
+	display: inline-block;
+	width: 22px;
+	height: 19px;
+	text-indent: -9999px;
+	background: no-repeat bottom center;
+	float:left;
+}
+
+div.jqans-wrapper.default .jqans-pagination-controls-back a {
+	background-image: url(../images/newsslider_leftarrow.png);
+	width: 52px;
+    height: 52px;
+}
+
+div.jqans-wrapper.default .jqans-pagination-controls-next a {
+	background-image: url(../images/newsslider_rightarrow.png);
+	width: 52px;
+    height: 52px;
+}
+.jqans-stories-selector{
+	visibility:hidden;
+	display:none;
+}
+
+#pagination-col {		
+	display : block;		
+	width : 100%;		
+	min-height : 52px;		
+}
+.jqans-stories {
+	overflow: hidden;
+    padding-left: 0px;
+}
+.jqans-pagination-controls {
+	position : absolute;
+	top : 35%;
+	display  :block;
+	width : 100%;
+}
+.jqans-pagination-controls .jqans-pagination-controls-back {
+	float :left;
+}
+.jqans-pagination-controls .jqans-pagination-controls-next {
+	float :right;
+}
+.shop_html li , .best_seller li {
+	display: inline-block;
+	margin : 25px 5px;
+}
+.shop_html li a , .best_seller li a{
+	display : block;
+}
+.shop_html li a.add_to_cart,  .best_seller li a.add_to_cart {
+	display: inline-block;
+}
+
+/* end carousel css */
+.footer_bg, .footer_bg3 {
+	background : #242424;
+	padding-top : 15px;
+	padding-bottom : 15px;
+	color : #929292;
+}
+.footer_bg > .container > .row, .footer_bg3 > .container > .row {
+	padding : 20px;
+}
+.footer_bg3 {
+  border-top: 1px solid #1c1c1c;
+}
+.flicker_image img.img-responsive {
+	display : inline-block;
+}
+.flicker_image {
+  padding-top : 1px;
+  padding-bottom : 1px;
+  text-align: center;
+}
+#footer_menu li a {
+	color : #929292;
+	padding: 0px;
+}
+.footer_third {
+	color : #929292;
+	padding: 20px 0px;
+}
+#footer_menu li a:after {
+ content: "/";
+ padding: 0px 10px;
+ color : #929292;
+}
+#footer_menu li:last-child a:after {
+  content: "";
+  color : #929292;
+}
+.footer_bg2 {
+	background : #2e2e2e;
+}
+.footer_third div nav {
+  margin-bottom: 0px;
+}
+.social_icons i {
+	padding: 10px 11px 10px 11px;
+	background: #2e2e2e;
+}
+.twitter_widget {
+	padding-left : 20px;
+}
+.newsletter_btn {
+	background: #7d7d7d;
+	color: #2e2e2e;
+	border: none;
+	padding: 1.5px 12px;
+	font-size: 19px;
+}
+.newsletter_email {
+	background: #2e2e2e;
+	border: none;
+	padding: 5px 42px 5px 5px;
+}
+.social_icons { 
+	text-align : center;
+}
+.blog_dt {
+	padding: 0px 18px;
+	background: #57c5a0;
+	color: #fff;
+	vertical-align: middle;
+}
+.media-body {
+	padding: 0px 18px;
+}
+.blog_news .media {
+	margin-top : 28px;
+}
+.blog_news .media:first-child {
+    margin-top: 0;
+}
+
+@media	only screen and (max-width: 760px),	(min-device-width: 768px) and (max-device-width: 1024px)  {
+	.card_view table, .card_view table thead, .card_view table tbody, .card_view table thead th, .card_view table tbody td, .card_view table tbody tr {
+		display: block;
+	}
+	.card_view thead tr {
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+
+	.card_view table tbody tr { border: 1px solid #ccc; }
+
+	.card_view table tbody tr td {
+		border: none;
+		border-bottom: 1px solid #eee;
+		position: relative;
+	}		
+}
+.add_shop_items section {
+	text-align: center;
+}
+#rox_nav_menu_id a {
+	padding-left: 10px;
+}
+
+@media only screen and (min-width : 480px) and (max-width : 768px) {
+	div.jqans-wrapper.default li {
+		max-width : 85.5px;
+	}
+}
+@media only screen and (max-width: 992px) { 
+	div.jqans-wrapper.default .jqans-container {
+		min-height: 168px;
+	}
+	.sidebar_block {
+		min-height: 550px !important;
+	}
+	.twitter_widget {
+	    padding-left: 0px;
+	}
+	.navbar-nav {
+		margin  : 0px !important;
+	}
+}
+
+@media only screen and (max-width : 480px) {
+	.navbar-form {
+		border-bottom: none;
+	}
+	.billing_address, .shipping_address, .order_notes{
+		width: 100%;
+	}
+	.add_shop_items section {
+		margin-bottom: 20px;
+	}
+	#rox_nav_menu_id {
+		padding-right: 0px;
+	}
+	.product_price, .product_subtotal, .price {
+	    width: auto;
+	    display: inline;
+	    text-align: left;
+	    margin-left: 53px;
+	}
+	.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+		text-decoration: underline;
+	}
+	.quantity_change, .shop_quantity_change {
+	    margin: 0px;
+	    margin-left: 23px;
+	    display: inline-block;
+	}
+	.checkout_order_item .product_price, .checkout_order_item .product_subtotal, .price {
+		margin-left: 0px;
+		display: block;
+	}
+	.newsletter_email {
+		padding: 5px 35px 5px 5px;
+		margin-bottom: 10px;
+	}
+	.button_tr td {
+		text-align: center !important;
+	}
+	.button_tr td input, .button_tr td a, .button_tr td button {
+		margin-bottom: 10px;
+	}
+	div.jqans-wrapper.default .jqans-pagination-controls-back a {
+		background-image: url(../images/carousel_leftarrow_mobile.png);
+		width: 21px;
+	    height: 21px;
+	}
+
+	div.jqans-wrapper.default .jqans-pagination-controls-next a {
+		background-image: url(../images/carousel_rightarrow_mobile.png);
+		width: 21px;
+	    height: 21px;
+	}
+	.jqans-pagination-controls {
+		top  :28%;
+	}
+
+	.jqans-pagination-count {
+	    width: 100%;
+	    display: block;
+	    text-align: center;
+	    padding-left: 0px;
+	    padding: 5px 0px;
+	}
+	div.jqans-wrapper.default .jqans-pagination {
+		padding-top : 0px;
+	}
+	div.jqans-wrapper.default .jqans-pagination-count {
+		padding-left : 0px;
+	}
+}
